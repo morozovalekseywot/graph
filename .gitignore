@@ -1,0 +1,9 @@
+# Project exclude paths
+/cmake-build-debug/
+/cmake-build-release/
+.idea
+figure/graph.stl
+figure/*path.csv
+figure/very_big_sphere.stl
+figure/*graph.stl
+gtest
